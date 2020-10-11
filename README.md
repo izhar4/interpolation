@@ -1,4 +1,4 @@
-# echo-bot-backend
+# Interpolation Problem
 The project contains code for interpolation task.
 
 ## Install Node Modules
